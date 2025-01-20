@@ -5,3 +5,5 @@ This project demonstrates the implementation of UART (Universal Asynchronous Rec
 ![Model will choose the picture with conversation fit your input](pictures/block_diagram.jpg)
 ## ASCII to 8 bit binary conversion table
 ![Model will choose the picture with conversation fit your input](pictures/ASCII_2_Binary.png)
+## H2L_detect vs L2H_detect
+![Model will choose the picture with conversation fit your input](H2L_vs_L2H.png)
